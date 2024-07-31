@@ -1,12 +1,11 @@
 <h1 align="center"> 🦕 Hey! I'm Guillermo 🦖 </h1>
-
-<h5 align="center"> Lenguajes </h5>
+<h5 align="center"> Personal preferences </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,php" />
   </a>
 </p>
-<h5 align="center"> Frameworks </h5>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,express,nodejs,laravel,symfony" />
