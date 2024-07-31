@@ -1,4 +1,4 @@
-<h1 align="center"> 🦕 Memosaurio Rex 🦖 </h1>
+<h1 align="center"> 🦕 Hey! I'm Guillermo 🦖 </h1>
 
 <h5 align="center"> Lenguajes </h5>
 <p align="center">
@@ -13,23 +13,12 @@
   </a>
 </p>
 
-<h2> ¿Quien soy? </h2>
+```golang
+import MyInfo from "./info-memosauriorex"
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 Learning a little thing.
-  
-- 🌱 Frontend, Backend, Webhooks, Scripts.
-  
-- 👯 Open Source <3
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/MemosaurioRex?tab=repositories&q=&type=&language=python&sort= > </a>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memosauriorex)](https://github.com/memosauriorex/github-readme-stats)
+MyInfo.value1 = "📚 I enjoy learning every day"
+MyInfo.value2 = "🚀 I like fishing, playing volleyball, programming and contemplating existence."
+MyInfo.value3 = "🐓 Father of six chickens"
+MyInfo.value4 = "🐜 Ants will conquer the world"
+```
+![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
