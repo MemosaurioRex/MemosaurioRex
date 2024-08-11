@@ -2,13 +2,13 @@
 <h5 align="center"> Personal preferences </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,java" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,express,nodejs,laravel,symfony" />
+    <img src="https://skillicons.dev/icons?i=angular,express,nodejs,spring" />
   </a>
 </p>
 
