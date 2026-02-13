@@ -80,6 +80,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,jest" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
 
 ---
 
@@ -94,12 +97,6 @@
 ## 🏐 Más allá del código
 
 Disfruto del voleibol 🏐 y del trabajo en equipo, lo cual traslado al desarrollo de software colaborativo y orientado a objetivos.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
 
 ---
 
