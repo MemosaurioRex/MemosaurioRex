@@ -78,7 +78,7 @@
 ## 🧰 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,jest,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,docker,jest" />
 </p>
 
 ---
