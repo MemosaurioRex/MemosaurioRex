@@ -1,21 +1,3 @@
-## 📊 Resumen de Actividad
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MemosaurioRex&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MemosaurioRex&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MemosaurioRex&theme=tokyonight&utcOffset=-3" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MemosaurioRex&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MemosaurioRex&theme=tokyonight" />
-</p>
-
 <h1 align="center">👋 Hola, soy Guillermo Parra Crisóstomo</h1>
 
 <p align="center">
@@ -81,18 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MemosaurioRex&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MemosaurioRex&theme=tokyonight" />
-</p>
-
----
-
 ## 🧰 Stack Principal
 
 <p align="center">
@@ -101,21 +71,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
-
----
-
-✔ Separación de responsabilidades  
-✔ Código mantenible  
-✔ Testing por capas  
-✔ Validaciones en Service Layer  
-✔ Manejo de errores centralizado  
-
----
-
-## 🏐 Más allá del código
-
-Disfruto del voleibol 🏐 y del trabajo en equipo, lo cual traslado al desarrollo de software colaborativo y orientado a objetivos.
-
----
-
-⭐ Siempre aprendiendo algo nuevo cada día
