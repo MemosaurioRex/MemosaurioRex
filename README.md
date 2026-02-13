@@ -1,3 +1,21 @@
+## 📊 Resumen de Actividad
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MemosaurioRex&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MemosaurioRex&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MemosaurioRex&theme=tokyonight&utcOffset=-3" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MemosaurioRex&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MemosaurioRex&theme=tokyonight" />
+</p>
+
 <h1 align="center">👋 Hola, soy Guillermo Parra Crisóstomo</h1>
 
 <p align="center">
