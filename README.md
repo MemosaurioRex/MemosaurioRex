@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Guillermo Parra Crisóstomo</h1>
 
 <p align="center">
-  💻 Backend Developer | 🧠 Clean Architecture | ⚙️ Node.js Enthusiast
+  💻 Backend Developer | 🧠 Clean Architecture
 </p>
 
 <p align="center">
@@ -34,32 +34,12 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
-
-### 🧠 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🧪 Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
-
----
-
-### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ### 🤖 Automatización & AI
 - n8n
 - Integraciones con APIs externas
 - Webhooks
 - Agentes AI
+- Desarrollos en plataforma Meta Developers.
 
 ---
 
