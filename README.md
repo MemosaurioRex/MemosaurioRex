@@ -39,7 +39,7 @@
 - Integraciones con APIs externas
 - Webhooks
 - Agentes AI
-- Desarrollos en plataforma Meta Developers.
+- Desarrollos en plataforma Meta Developers
 
 ---
 
